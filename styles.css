@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+
+
+body {
+    background-color: rgb(0, 58, 7);
+}
+
+h1 {
+   text-align: center;
+   font-family: 'Gaegu', cursive;
+   color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.button {
+    display: block;
+    background-color: rgb(5, 209, 66);
+    font-family: 'Gaegu', cursive;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 20%;
+}
+
+.button:hover {
+    border: 2px solid rgb(187, 30, 30);
+    cursor:pointer;
+    box-shadow: 1px 10px 98px -4px rgba(33, 209, 30, 0.46);
+}
+
+.para {
+    text-align: center;
+    font-family: 'Gaegu', cursive;
+    color: white;
+
+}
